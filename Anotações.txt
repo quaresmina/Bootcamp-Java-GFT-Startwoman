@@ -1,0 +1,2 @@
+Estrutura de dados
+	vetores, matrizes, registros, listas, pilhas, etc
